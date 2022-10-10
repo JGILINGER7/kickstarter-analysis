@@ -1,2 +1,3 @@
 # kickstarter-analysis
-Kickstarter analysis for data class
+Kickstarter analysis for *Fever*
+
